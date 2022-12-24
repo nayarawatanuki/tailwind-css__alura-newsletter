@@ -117,9 +117,4 @@ Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/tai
 </br>
 
 ## :woman_technologist: Desenvolvedor(a) do Projeto
-</> [Nayara Watanuki](https://github.com/nayarawatanuki)
-
-</br>
-
-## :star2: Creditos
-:mortar_board: [Professor Guilherme](https://github.com/guilhermeonrails)
+:star: [Nayara Watanuki](https://github.com/nayarawatanuki)
