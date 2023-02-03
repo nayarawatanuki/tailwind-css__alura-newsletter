@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Alura Newsletter" src="https://raw.githubusercontent.com/nayarawatanuki/tailwind-css__alura-newsletter/main/img/readme/Alura-newsletter__cover.png"/>
+  <img alt="Alura Newsletter" src="https://raw.githubusercontent.com/nayarawatanuki/tailwind-css__alura-newsletter/main/img/readme/Alura-newsletter__cover.png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Alura Newsletter](https://nayarawatanuki.github.io/tailwind-css__alura-newsletter/)**, é uma proposta de página web de inscrição a Newsletter da Alura, utilizando a estilização toda em Tailwind CSS. 
 
-</br>Desenvolvido para o curso de **TAILWIND CSS - ESTILIZANDO A SUA PÁGINA COM CLASSES UTILITÁRIAS** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **TAILWIND CSS - ESTILIZANDO A SUA PÁGINA COM CLASSES UTILITÁRIAS** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
